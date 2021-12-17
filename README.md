@@ -6,8 +6,11 @@
 
 ### Connect with me:
 
-<a href="https://lukewhitingdev.me"><img align="left" alt="lukewhitingdev.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/luke-whiting-6463a6173/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://lukewhitingdev.me"><img align="left" alt="lukewhitingdev.me" width="26px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/582b70b9477f205a206c32df11eb151bd57b433b/website-icon.png#gh-light-mode-only" /></a>
+
+<a href="https://lukewhitingdev.me"><img align="left" alt="lukewhitingdev.me" width="26px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/b1d082ce3fea8cebfb6608dc46838e54d34c5443/website-icon-invert.png#gh-dark-mode-only" /></a>
+
+<a href="https://www.linkedin.com/in/luke-whiting-6463a6173/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="100px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/582b70b9477f205a206c32df11eb151bd57b433b/Linkedin-icon.png" /></a>
 
 <br />
 
