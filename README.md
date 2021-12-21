@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luke, a games programmer.
+### Hi there 👋 I'm Luke, a student games programmer.
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=flat-square&up_color=lime-green&up_message=online&url=https%3A%2F%2Flukewhitingdev.me)
 
