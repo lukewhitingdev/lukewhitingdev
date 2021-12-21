@@ -5,7 +5,7 @@
 ## About me 👾
 
 🔭 I’m currently working on getting my bachelor's degree in games programming (Final Year). <br />
-🌱 Currently trying to learn graphics programming.
+👨‍🎓 On the look-out for jobs openings in relation to my graduation in april 2022. 
 
 ### Socials, feel free to message me!:
 
