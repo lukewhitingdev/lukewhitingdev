@@ -1,11 +1,14 @@
-### Hi there 👋 I'm Luke, a student games programmer.
+### Hi there 👋 I'm Luke, a games programmer.
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=flat-square&up_color=lime-green&up_message=online&url=https%3A%2F%2Flukewhitingdev.me)
 
 ## About me 👾
+👨‍🎓 Graduated University with a Games Programming Degree. <br />
+👨‍🔧 Interested in Engine, Tools and Low-level C++ Development within games <br />
 
-🔭 I’m currently working on getting my bachelor's degree in games programming (Final Year). <br />
-👨‍🎓 On the look-out for job openings in relation to my graduation in april 2022. 
+
+## Currently Working On 🕵️‍♂️
+🧠 Creating fun and enjoyable game-prototypes to increase my skill as a developer.
 
 ### Socials, feel free to message me!:
 
