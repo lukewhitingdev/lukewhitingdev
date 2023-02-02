@@ -8,7 +8,7 @@
 
 
 ## Currently Working On 🕵️‍♂️
-🧠 Creating fun and enjoyable game-prototypes to increase my skill as a developer.
+🧠 Learning Unreal Engine 
 
 ### Socials, feel free to message me!:
 
