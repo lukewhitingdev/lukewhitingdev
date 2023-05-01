@@ -8,7 +8,7 @@
 
 
 ## Currently Working On 🕵️‍♂️
-🧠 Learning Unreal Engine 
+🧠 Making a cooperative spotify sync app
 
 ### Socials, feel free to message me!:
 
