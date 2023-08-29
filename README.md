@@ -4,11 +4,11 @@
 
 ## About me 👾
 👨‍🎓 Graduated University with a Games Programming Degree. <br />
-👨‍🔧 Interested in Engine, Tools and Low-level C++ Development within games <br />
+👨‍🔧 Interested in C++ Development within games and improving my skills as a developer <br />
 
 
 ## Currently Working On 🕵️‍♂️
-🧠 Making a cooperative spotify sync app
+🧠 A UE5 game inspired by the <a href=https://nintendo.fandom.com/wiki/Tanks!>Tanks!</a> minigame in Wii Play
 
 ### Socials, feel free to message me!:
 
