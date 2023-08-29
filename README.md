@@ -13,7 +13,6 @@
 ### Socials, feel free to message me!:
 
 <a href="https://www.linkedin.com/in/luke-whiting-6463a6173/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="200px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/582b70b9477f205a206c32df11eb151bd57b433b/Linkedin-icon.png" /></a>
-<a href="https://twitter.com/lukewhitingdev"><img align="left" alt="lukewhitingdev | Twitter" width="100px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 
 <br />
 <br />
