@@ -27,4 +27,5 @@
 <img align="left" alt="MySQL" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="Unity" width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
