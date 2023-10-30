@@ -8,7 +8,7 @@
 
 
 ## Currently Working On 🕵️‍♂️
-🧠 A <a href=https://github.com/lukewhitingdev/untitled-tank-game>UE5 game</a> inspired by the <a href=https://nintendo.fandom.com/wiki/Tanks!>Tanks!</a> minigame in Wii Play
+🧠 A cooperative spotify listening app
 
 ### Socials, feel free to message me!:
 
