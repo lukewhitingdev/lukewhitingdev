@@ -6,10 +6,6 @@
 👨‍🎓 Graduated University with a Games Programming Degree. <br />
 👨‍🔧 Interested in C++ Development within games and improving my skills as a developer <br />
 
-
-## Currently Working On 🕵️‍♂️
-🧠 A cooperative spotify listening app
-
 ### Socials, feel free to message me!:
 
 <a href="https://www.linkedin.com/in/luke-whiting-6463a6173/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="200px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/582b70b9477f205a206c32df11eb151bd57b433b/Linkedin-icon.png" /></a>
