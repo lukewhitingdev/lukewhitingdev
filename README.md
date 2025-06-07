@@ -7,8 +7,13 @@
 👨‍🔧 Interested in C++ Development within games and improving my skills as a developer <br />
 
 ### Socials, feel free to message me!:
-
 <a href="https://www.linkedin.com/in/luke-whiting-6463a6173/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="200px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/582b70b9477f205a206c32df11eb151bd57b433b/Linkedin-icon.png" /></a>
+
+<br />
+<br />
+
+### Game Jam Games
+<a href="https://lukewhitingdev.itch.io/"><img align="left" alt="lukewhitinlinkedin | LinkedIn" width="200px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/1bcb69bf79cff0d6e323a956838cebd3c2cf3ebe/Itch_io.svg" /></a>
 
 <br />
 <br />
@@ -21,6 +26,7 @@
 <img align="left" alt="PHP" width="60px" height="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 <img align="left" alt="MySQL" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="Unity" width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="Unity" width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+<img align="left" alt="Unreal Engine" width="40px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/b28ada34e623acb72793b7df18ab431078bb937b/ue.png" />
 
