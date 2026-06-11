@@ -22,11 +22,9 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C Sharp" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="PHP" width="60px" height="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
+<img align="left" alt="Javascript" width="40px" src="https://github.com/user-attachments/assets/50e007a5-afa6-47b6-887e-ecc5b12d17ea" />
 <img align="left" alt="MySQL" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Unity" width="40px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="Unreal Engine" width="40px" src="https://github.com/lukewhitingdev/lukewhitingdev/blob/b28ada34e623acb72793b7df18ab431078bb937b/ue.png" />
 
